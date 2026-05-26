@@ -38,7 +38,7 @@
 </p>
 
 <!-- Cube image: floats to the right of the skill badges on wide screens -->
-<div style="float:right; width:30%; max-width:250px; margin-left:20px; margin-top:-420px;">
+<div style="float:right; width:30%; max-width:50px; margin-left:20px; margin-top:-420px;">
   <img src="cube.svg" style="width:100%; display:block;" alt="Tech cube" />
 </div>
 

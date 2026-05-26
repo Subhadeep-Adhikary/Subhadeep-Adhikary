@@ -74,7 +74,7 @@
     <g transform="translate(250, 90)">
       <g class="skill-node" transform-origin="0 0">
         <circle cx="0" cy="0" r="23" fill="#030712" stroke="#38bdf8" stroke-width="2" />
-        <image class="tech-logo" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+        <image class="tech-logo" href="https://skillicons.dev/icons?i=py"/>
       </g>
     </g>
 
@@ -116,7 +116,7 @@
     <g transform="translate(90, 250)">
       <g class="skill-node" transform-origin="0 0">
         <circle cx="0" cy="0" r="23" fill="#030712" stroke="#38bdf8" stroke-width="2" />
-        <image class="tech-logo" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
+        <image class="tech-logo" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
       </g>
     </g>
 

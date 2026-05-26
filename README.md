@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋<br>I am Subhadeep Adhikary</h1>
 
 ###
-
+<h2> Skills and tools <h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="57" alt="python logo"  />
   <img width="26" />

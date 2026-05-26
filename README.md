@@ -60,8 +60,9 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Subhadeep-Adhikary&show_icons=true&theme=transparent&title_color=39d353&icon_color=58a6ff&text_color=c9d1d9&border_color=21262d&count_private=true" alt="Subhadeep's GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhadeep-Adhikary&layout=compact&theme=transparent&title_color=39d353&text_color=c9d1d9&border_color=21262d" alt="Top Languages" height="160" />
+ <img src="https://github-stats-extended.vercel.app/api?username=Subhadeep-Adhikary&show_icons=true&theme=transparent&title_color=39d353&icon_color=58a6ff&text_color=c9d1d9&border_color=21262d&count_private=true" alt="Subhadeep's GitHub Stats" height="160" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Subhadeep-Adhikary&layout=compact&theme=transparent&title_color=39d353&text_color=c9d1d9&border_color=21262d" alt="Top Languages" height="160" />
+</p>
 </p>
 
 <p align="center">

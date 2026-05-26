@@ -73,7 +73,7 @@
     <g transform="translate(250, 90)">
       <g class="skill-node" transform-origin="0 0">
         <circle cx="0" cy="0" r="23" fill="#030712" stroke="#38bdf8" stroke-width="2" />
-        <text class="node-label" x="0" y="1">PY</text>
+        <text class="node-label" x="0" y="1">Python</text>
       </g>
     </g>
 
@@ -122,7 +122,7 @@
     <g transform="translate(137, 137)">
       <g class="skill-node" transform-origin="0 0">
         <circle cx="0" cy="0" r="23" fill="#030712" stroke="#38bdf8" stroke-width="2" />
-        <text class="node-label" x="0" y="1">DB</text>
+        <text class="node-label" x="0" y="1">mongo DB</text>
       </g>
     </g>
   </g>

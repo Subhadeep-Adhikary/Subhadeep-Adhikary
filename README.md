@@ -1,8 +1,8 @@
 <h1 align="center">Hey 👋<br>I am Subhadeep Adhikary</h1>
 
 ###
-<p align="center">
-  <img src="skills-disk.svg" width="460" alt="My tech Skill Disk"/>
+<p align="center" style="display:inline-block; padding:12px; border:3px solid rgba(56,189,248,0.8); border-radius:24px; box-shadow:0 0 30px rgba(56,189,248,0.45);">
+  <img src="skills-disk.svg" width="460" alt="My tech Skill Disk" style="display:block; border-radius:18px;"/>
 </p>
 <!-- <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="57" alt="python logo"  />

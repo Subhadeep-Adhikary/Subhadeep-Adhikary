@@ -1,10 +1,8 @@
 <h1 align="center">Hey 👋<br>I am Subhadeep Adhikary</h1>
 
 ###
-<p align="center" style="display:inline-block; padding:12px; border:3px solid rgba(56,189,248,0.8); border-radius:24px; box-shadow:0 0 30px rgba(56,189,248,0.45);">
-  <img src="skills-disk.svg" width="460" alt="My tech Skill Disk" style="display:block; border-radius:18px;"/>
-</p>
-<!-- <div align="center">
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="57" alt="python logo"  />
   <img width="26" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="57" alt="html5 logo"  />
@@ -24,7 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="57" alt="mysql logo"  />
   <img width="26" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="57" alt="mongodb logo"  />
-</div> -->
+</div>
 
 ###
 
@@ -54,9 +52,9 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Subhadeep-Adhikary/Subhadeep-Adhikary/snake-output/snake.svg" alt="Snake animation" />
+<p align="center" style="display:inline-block; padding:12px; border:3px solid rgba(56,189,248,0.8); border-radius:24px; box-shadow:0 0 30px rgba(56,189,248,0.45);">
+  <img src="skills-disk.svg" width="460" alt="My tech Skill Disk" style="display:block; border-radius:18px;"/>
+</p>
 
 ###
 

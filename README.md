@@ -1,43 +1,70 @@
-<p align="centre" width="100%">
+<p align="center">
   <img src="banner.png" width="100%" alt="Subhadeep Adhikary Banner" />
 </p>
 
-<h1 align="center">Hey 👋</h1>
+<h1 align="center">Hey There! I'm Subhadeep 👋</h1>
 
-###
-<h3> My tech stack <h3>
-**Languages**
-  <p align="left" style="margin-bottom:30">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</p>
-**Frontend**
-<p align="left" style="margin-bottom:30">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
-**Databases**
-<p align="left" style="margin-bottom:30">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<p align="center">
+  <i>Aspiring Data Scientist & Full-Stack Developer specializing in high-performance web systems and AI solutions.</i>
 </p>
 
-**Backend**
-<p align="left" style="margin-bottom:30">
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+---
+
+## 📂 Detailed Tech Stack Breakdown
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="55%" valign="top" style="border: none;">
+      <br/>
+      <strong>💻 Languages</strong>
+      <p align="left">
+        <img style="margin:5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+        <img style="margin:5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+        <img style="margin:5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+        <img style="margin:5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+      </p>
+      <strong>🌐 Frontend</strong>
+      <p align="left">
+        <img style="margin:5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+        <img style="margin:5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+        <img style="margin:5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+      </p>
+      <strong>⚙️ Backend &amp; Databases</strong>
+      <p align="left">
+        <img style="margin:5" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+        <img style="margin:5" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+        <img style="margin:5" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+        <img style="margin:5" src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+      </p>
+      <strong>🧰 Tools &amp; Platforms</strong>
+      <p align="left">
+        <img style="margin:5" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+        <img style="margin:5" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+      </p>
+    </td>
+    <td width="45%" valign="middle" align="center" style="border: none;">
+      <img src="cube.svg" width="100%" style="max-width:380px;" alt="Development Lifecycle Cube" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Subhadeep-Adhikary&show_icons=true&theme=transparent&title_color=39d353&icon_color=58a6ff&text_color=c9d1d9&border_color=21262d&count_private=true" alt="Subhadeep's GitHub Stats" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Subhadeep-Adhikary&layout=compact&theme=transparent&title_color=39d353&text_color=c9d1d9&border_color=21262d" alt="Top Languages" height="165" />
 </p>
 
-**Tools**
-<p align="left" style="margin-bottom:30">
- <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subhadeep-Adhikary&theme=tokyonight" alt="GitHub Streak" width="98%" />
 </p>
 
-### 🤝 Social Media
+---
+
+## 🤝 Connect with Me
+
 <p align="left">
   <a href="https://linkedin.com/in/subhadeep-adhikary-40b0b9322" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -45,28 +72,10 @@
   <a href="https://x.com/SubhadeepA22667" target="_blank">
     <img src="https://img.shields.io/badge/Twitter/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X"/>
   </a>
-  <a href="YOUR_DISCORD_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-</p>
-
-<!-- Cube image: floats to the right of the skill badges on wide screens -->
-<div style="float:right; width:30%; max-width:50; margin-left:20px; margin-top:-420px;" hight="50", align="center">
-  <img src="cube.svg" style="width:30%; display:block;" alt="Tech cube" />
-</div>
-
----
-
-### 📊 GitHub Statistics
-
-<p align="center">
- <img src="https://github-stats-extended.vercel.app/api?username=Subhadeep-Adhikary&show_icons=true&theme=transparent&title_color=39d353&icon_color=58a6ff&text_color=c9d1d9&border_color=21262d&count_private=true" alt="Subhadeep's GitHub Stats" height="160" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Subhadeep-Adhikary&layout=compact&theme=transparent&title_color=39d353&text_color=c9d1d9&border_color=21262d" alt="Top Languages" height="160" />
-</p>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subhadeep-Adhikary&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
+
+<p align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote" width="100%" />
+</p>

@@ -37,29 +37,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-  
-<!-- <div align="center" style="margin-bottom:100">
-  <img src="https://skillicons.dev/icons?i=py" height="57" alt="python logo"  />
-  <img width="26" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="57" alt="html5 logo"  />
-  <img width="26" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="57" alt="css logo"  />
-  <img width="26" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="57" alt="javascript logo"  />
-  <img width="26" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="57" alt="java logo"  />
-  <img width="26" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="57" alt="c logo"  />
-  <img width="26" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="57" alt="vscode logo"  />
-  <img width="26" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="57" alt="flask logo"  />
-  <img width="26" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="57" alt="mysql logo"  />
-  <img width="26" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="57" alt="mongodb logo"  />
-</div> -->
-
 
 ### 🤝 Social Media
 <p align="left">
@@ -73,3 +50,23 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
+
+<!-- Cube image: floats to the right of the skill badges on wide screens -->
+<div style="float:right; width:30%; max-width:300px; margin-left:20px; margin-top:-420px;">
+  <img src="cube.svg" style="width:100%; display:block;" alt="Tech cube" />
+</div>
+
+---
+
+### 📈 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Subhadeep-Adhikary&show_icons=true&theme=tokyonight&count_private=true" alt="Subhadeep's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhadeep-Adhikary&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subhadeep-Adhikary&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---

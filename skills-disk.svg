@@ -59,6 +59,7 @@
   </defs>
 
   <circle cx="250" cy="250" r="160" fill="none" stroke="url(#darkDiskGrad)" stroke-width="70" />
+  <circle cx="250" cy="250" r="205" fill="none" stroke="#38bdf8" stroke-width="4" filter="url(#skyblueGlow)" opacity="0.6" />
   <circle cx="250" cy="250" r="195" fill="none" stroke="#38bdf8" stroke-width="2" filter="url(#skyblueGlow)" opacity="0.9" />
   <circle cx="250" cy="250" r="125" fill="none" stroke="#0ea5e9" stroke-width="1.5" opacity="0.5" />
 

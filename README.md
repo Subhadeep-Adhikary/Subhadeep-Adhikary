@@ -5,7 +5,7 @@
 <h1 align="center">Hey 👋</h1>
 
 ###
-<h3> Skills and tools <h3>
+<h3> My tech stack <h3>
 **Languages**
   <p align="left" style="margin-bottom:30">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -28,11 +28,13 @@
 **Backend**
 <p align="left" style="margin-bottom:30">
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
 </p>
 
 **Tools**
 <p align="left" style="margin-bottom:30">
  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
   
@@ -58,20 +60,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="57" alt="mongodb logo"  />
 </div> -->
 
-###
-<h3>Social media</h3>
-<br clear="both">
 
-<div align="center">
+### 🤝 Social Media
+<p align="left">
+  <a href="https://linkedin.com/in/subhadeep-adhikary-40b0b9322" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="https://x.com/SubhadeepA22667" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="124" height="42" alt="twitter logo"  />
+    <img src="https://img.shields.io/badge/Twitter/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X"/>
   </a>
-  <a href="www.linkedin.com/in/subhadeep-adhikary-40b0b9322" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="124" height="42" alt="linkedin logo"  />
+  <a href="YOUR_DISCORD_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href=" @subhadeep  " target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="124" height="42" alt="discord logo"  />
-  </a>
-</div>
-
+</p>
 ###

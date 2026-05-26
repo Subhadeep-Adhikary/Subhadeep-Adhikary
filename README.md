@@ -37,6 +37,11 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
+<!-- Cube image: floats to the right of the skill badges on wide screens -->
+<div style="float:right; width:30%; max-width:250px; margin-left:20px; margin-top:-420px;">
+  <img src="cube.svg" style="width:100%; display:block;" alt="Tech cube" />
+</div>
+
 
 ### 🤝 Social Media
 <p align="left">
@@ -51,10 +56,6 @@
   </a>
 </p>
 
-<!-- Cube image: floats to the right of the skill badges on wide screens -->
-<div style="float:right; width:30%; max-width:300px; margin-left:20px; margin-top:-420px;">
-  <img src="cube.svg" style="width:100%; display:block;" alt="Tech cube" />
-</div>
 
 ---
 

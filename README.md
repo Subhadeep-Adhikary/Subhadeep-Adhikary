@@ -1,8 +1,10 @@
 <h1 align="center">Hey 👋<br>I am Subhadeep Adhikary</h1>
 
 ###
-
-<div align="center">
+<p align="center">
+  <img src="skills-disk.svg" width="460" alt="My tech Skill Disk"/>
+</p>
+<!-- <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="57" alt="python logo"  />
   <img width="26" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="57" alt="html5 logo"  />
@@ -22,7 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="57" alt="mysql logo"  />
   <img width="26" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="57" alt="mongodb logo"  />
-</div>
+</div> -->
 
 ###
 

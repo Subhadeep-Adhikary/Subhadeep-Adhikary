@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" width="100%" alt="Subhadeep Adhikary Banner" />
+  <img src="banner.svg" width="100%" alt="Subhadeep Adhikary Banner" />
 </p>
 
 <h1 align="center">Hey There! I'm Subhadeep 👋</h1>
